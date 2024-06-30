@@ -62,3 +62,9 @@ begin
 end;
 ```
 
+## I took courses from Sololearn, ULearn.me , Stepik, etc. I am currently studying at the Belarusian State University of Informatics and Radioelectronics (BSUIR).
+
+
+# English Level: B2
+### Certificate
+![Sertificate](/rsschool-cv/EF%20SET%20Certificate_page-0001.jpg)
