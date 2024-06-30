@@ -1,6 +1,6 @@
 # Hi, names Daniil Rudenya
 
-![Photo](/rsschool-cv/avatar.jpg)
+![Photo](/rsschool-cv/Personal_Photo.jpg)
 
 ## [My Telegram](https://t.me/Daniil_Rudenya)
 
@@ -67,4 +67,4 @@ end;
 
 # English Level: B2
 ### Certificate
-![Sertificate](/rsschool-cv/EF%20SET%20Certificate_page-0001.jpg)
+![Sertificate](/rsschool-cv/EF%20SET%20Certificate.jpg)
